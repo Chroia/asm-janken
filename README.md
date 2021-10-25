@@ -1,2 +1,2 @@
 # asm-janken
-Assemblyによるじゃんけんプログラムです。
+Assemblyによるじゃんけんcliアプリケーションです。
